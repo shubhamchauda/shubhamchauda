@@ -41,6 +41,16 @@
       </td>           
       </tbody>
 </table>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>CSS3</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>           
+      </tbody>
+</table>
 <br>
 
 ## Goals 2020
