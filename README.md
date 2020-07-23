@@ -32,18 +32,18 @@ In general; I am a **Technology Geek**  🇨🇾
       <td width="20%" align="center">
         <span><strong>Android</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>               
+      </td>
+      <td width="20%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+       </td> 
       </tbody>
 
 </table>
 
 <table>
   <tbody>
-    <tr valign="top">
-      <td width="40%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-       </td> 
+    <tr valign="top">     
       <td width="40%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
