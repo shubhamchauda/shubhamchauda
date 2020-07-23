@@ -81,6 +81,11 @@ In general; I am a **Technology Geek**  🇨🇾
 </table>
 
 <br>
+## GitHub Status
+
+[![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda)](https://github.com/shubhamchauda/github-readme-stats)
+<br>
+
 
 ## Wanna Chat? ☕
 
@@ -91,7 +96,6 @@ In general; I am a **Technology Geek**  🇨🇾
   <a href="mailto:chaudashubham@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
-  [![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda)]
 
 
 
