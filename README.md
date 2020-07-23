@@ -40,19 +40,19 @@ In general; I am a **Technology Geek**  🇨🇾
 <table>
   <tbody>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
        </td> 
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <span><strong>APACHE TOMCAT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>  
-      <td width="20%" align="center">
+      <td width="10%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
