@@ -4,10 +4,9 @@
 <p>
   <img src="https://media1.giphy.com/media/SvWJ9qvayswvpssMPX/giphy.gif" width="200px"></p>
 
-  ## I am Shubham Chuada👋
+ # 𝗜'𝗺 Shubham 🦄
 
-❤ I love to create **Coding Exercises** For Kids 🚀 <br>
-🚀 I am a **Junior Web Developer** who loves Backend & Frontend ⌨ <br>
+🚀 I am a **Python/Java Programmer**  <br>
 💻 I am an Addicted **Music** 💎<br>
 ❤ In general; I am a **Technology Geek**  🇨🇾
 
@@ -18,20 +17,17 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>JAVASCRIPT</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>ANGULAR</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
+      
       <td width="20%" align="center">
         <span><strong>PYTHON</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
@@ -64,13 +60,11 @@
 
 ## Wanna Chat? ☕
 
-  <a href="https://www.linkedin.com/in/antonia-symeonidou-88a719151/">
+  <a href="https://www.linkedin.com/in/shubham-chauda-a2395a140/">
     <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/NanouuSymeon">
-    <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-  </a>
-  <a href="mailto:nakibarbie1017@gmail.com">
+
+  <a href="mailto:chaudashubham@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 
