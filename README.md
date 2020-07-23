@@ -3,6 +3,8 @@
 <!--
 **shubhamchauda/shubhamchauda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p>
+  <img src="https://media1.giphy.com/media/SvWJ9qvayswvpssMPX/giphy.gif" width="200px"></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
