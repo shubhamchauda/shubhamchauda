@@ -81,7 +81,8 @@ In general; I am a **Technology Geek**  🇨🇾
 </table>
 
 <br>
-## GitHub Status
+ 
+ ## GitHub Status
 
 [![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda)](https://github.com/shubhamchauda/github-readme-stats)
 <br>
