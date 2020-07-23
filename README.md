@@ -33,17 +33,17 @@ In general; I am a **Technology Geek**  🇨🇾
         <span><strong>ANDROID</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-       </td> 
       </tbody>
 
 </table>
 
 <table>
   <tbody>
-    <tr valign="top"> 
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+       </td> 
       <td width="20%" align="center">
         <span><strong>APACHE TOMCAT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
