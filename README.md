@@ -30,7 +30,7 @@ In general; I am a **Technology Geek**  🇨🇾
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>Android</strong></span><br><br><br>
+        <span><strong>ANDROID</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
       <td width="20%" align="center">
@@ -43,7 +43,11 @@ In general; I am a **Technology Geek**  🇨🇾
 
 <table>
   <tbody>
-    <tr valign="top">     
+    <tr valign="top"> 
+      <td width="20%" align="center">
+        <span><strong>APACHE TOMCAT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
+      </td>
       <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
@@ -51,7 +55,7 @@ In general; I am a **Technology Geek**  🇨🇾
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>           
+      </td>
       </tbody>
 </table>
 <br>
