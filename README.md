@@ -41,7 +41,7 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="40%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>           
