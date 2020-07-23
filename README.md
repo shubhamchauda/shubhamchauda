@@ -17,19 +17,19 @@ In general; I am a **Technology Geek**  🇨🇾
 <table>
   <tbody>
     <tr valign="top">
-      <td width="15%" align="center">
+      <td width="10%" align="center">
         <span><strong>PYTHON</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="10%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="10%" align="center">
         <span><strong>JAVA</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="15%" align="center">
+      <td width="10%" align="center">
         <span><strong>ANDROID</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
