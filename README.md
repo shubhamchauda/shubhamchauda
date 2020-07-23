@@ -74,7 +74,7 @@ In general; I am a **Technology Geek**  🇨🇾
         <img height="200px" src="https://media.giphy.com/media/l6SQZJCWcXQd7mzoiF/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
-        <span><strong>Build Network</strong></span><br><br><br>
+        <span><strong>Build Networks</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
       </td>
       </tbody>
