@@ -16,6 +16,10 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
+        <span><strong>PYTHON</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
@@ -26,11 +30,11 @@
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>  
+      </td>       
       <td width="20%" align="center">
         <span><strong>PYTHON</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+      </td>    
       </tbody>
 </table>
 <br>
