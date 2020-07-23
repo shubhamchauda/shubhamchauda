@@ -32,8 +32,7 @@ In general; I am a **Technology Geek**  🇨🇾
       <td width="20%" align="center">
         <span><strong>Android</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-                   
+      </td>               
       </tbody>
 
 </table>
