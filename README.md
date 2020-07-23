@@ -4,11 +4,13 @@
 <p>
   <img src="https://media1.giphy.com/media/SvWJ9qvayswvpssMPX/giphy.gif" width="200px"></p>
 
- # 𝗜'𝗺 Shubham 🦄
+ # 𝗜'𝗺 Shubham 
 
-🚀 I am a **Python/Java Programmer**  <br>
-💻 I am an Addicted **Music** 💎<br>
-❤ In general; I am a **Technology Geek**  🇨🇾
+💻 I am a **Python/Java Programmer**  <br>
+🎧 I am **Music**  Addicted 💎<br>
+📷 I love **Capture Moments** <br>
+
+In general; I am a **Technology Geek**  🇨🇾
 
 ## Technologies I Use
 
@@ -30,17 +32,22 @@
        <td width="20%" align="center">
         <span><strong>Git</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-      </td>
+       </td>
       <td width="20%" align="center">
-        <span><strong>HTML5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>           
+        <span><strong>Android</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>             
       </tbody>
+
 </table>
 
 <table>
   <tbody>
     <tr valign="top">
+      <td width="20%" align="center">
+        <span><strong>HTML5</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>  
       <td width="40%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
