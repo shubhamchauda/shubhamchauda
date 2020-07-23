@@ -8,7 +8,7 @@
 
 💻 I am **Python/Java** Programmer  <br>
 🎧 I am **Music**  Addicted 💎<br>
-📷 I love **Capture Moments** <br>
+📷 I love to **Capture Moments** <br>
 
 In general; I am a **Technology Geek**  🇨🇾
 
