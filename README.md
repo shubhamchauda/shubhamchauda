@@ -24,17 +24,21 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
       <td width="20%" align="center">
+        <span><strong>JAVA</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+       <td width="20%" align="center">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
+      </td>
+      <td width="20%" align="center">
         <span><strong>HTML5</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>CSS3</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>       
-      <td width="20%" align="center">
-        <span><strong>PYTHON</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-      </td>    
+      </td>           
       </tbody>
 </table>
 <br>
