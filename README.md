@@ -6,7 +6,7 @@
 
  # 𝗜'𝗺 Shubham 
 
-💻 I am a **Python/Java Programmer**  <br>
+💻 I am **Python/Java** Programmer  <br>
 🎧 I am **Music**  Addicted 💎<br>
 📷 I love **Capture Moments** <br>
 
@@ -91,6 +91,7 @@ In general; I am a **Technology Geek**  🇨🇾
   <a href="mailto:chaudashubham@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+  [![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda)](https://github-readme-stats.vercel.app/api?username=shubhamchauda)
 
 
 
