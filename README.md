@@ -75,7 +75,7 @@ In general; I am a **Technology Geek**  🇨🇾
       </td>
       <td width="10%" align="center">
         <span><strong>Meet New People</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="300px">
+        <img height="200px" src="https://thumbs.gfycat.com/FlickeringTerrificJohndory-small.gif" width="300px">
       </td>
       </tbody>
 </table>
