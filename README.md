@@ -22,7 +22,7 @@ In general; I am a **Technology Geek**  🇨🇾
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="10%" align="center">
-        <span><strong>HTML5</strong></span><br><br><br>
+        <span><strong>FLASK</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
       <td width="10%" align="center">
