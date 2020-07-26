@@ -4,11 +4,15 @@
 <p>
   <img src="https://media1.giphy.com/media/SvWJ9qvayswvpssMPX/giphy.gif" width="200px"></p>
 
- # 𝗜'𝗺 Shubham 
+ ### 𝗜'𝗺 Shubham 
 
-💻 I am **Python/Java** Programmer  <br>
-🎧 I am **Music**  Addicted 💎<br>
+🎧  💎<br>
 📷 I love to **Capture Moments** <br>
+I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya , Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to **capture moments**.I am **Music** Addicted.
+
+- 🔭 I’m currently working on **Machine Learning,Deep Learning,Computer Vision** 
+- 🌱 I’m currently learning State of the Art AI models
+- 🤝 I’m looking to collaborate on data science and artifical intelligence projects
 
 In general; I am a **Technology Geek**  🇨🇾
 
@@ -99,6 +103,7 @@ In general; I am a **Technology Geek**  🇨🇾
   <a href="mailto:chaudashubham@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+ 
 
 
 
