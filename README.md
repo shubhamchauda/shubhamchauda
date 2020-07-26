@@ -4,17 +4,20 @@
 <p>
   <img src="https://media1.giphy.com/media/SvWJ9qvayswvpssMPX/giphy.gif" width="200px"></p>
 
- ### 𝗜'𝗺 Shubham 
+ # 𝗜'𝗺 Shubham 
+<br>
+## About Me
+**I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments.I am Music Addicted.**
+ 
+- 🌱 I’m currently learning State of the Machine Learning,Deep Learning,Computer Vision
+- 🤝 I’m looking to collaborate on data science and Machine Learning,Deep Learning,Computer Vision projects
+In general :- I am a **Technology Geek**  🇨🇾
+## Currently Using 
 
-🎧  💎<br>
-📷 I love to **Capture Moments** <br>
-I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya , Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to **capture moments**.I am **Music** Addicted.
+<img src="https://img.shields.io/badge/Tensorflow-%23FF6FOO.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />   
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=Linux&logoColor=white" />
 
-- 🔭 I’m currently working on **Machine Learning,Deep Learning,Computer Vision** 
-- 🌱 I’m currently learning State of the Art AI models
-- 🤝 I’m looking to collaborate on data science and artifical intelligence projects
-
-In general; I am a **Technology Geek**  🇨🇾
 
 ## Technologies I Use
 
