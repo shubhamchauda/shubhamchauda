@@ -87,6 +87,8 @@ In general; I am a **Technology Geek**  🇨🇾
 [![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda)](https://github.com/shubhamchauda/github-readme-stats)
 <br>
 
+[![Work On]](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
+
 
 ## Wanna Chat? ☕
 
