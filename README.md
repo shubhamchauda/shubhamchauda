@@ -17,7 +17,7 @@ I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahi
 
 In general :- I am a **Technology Geek**  🇨🇾
 
-## Currently Using 
+## Technologies currently using 
 <table>
   <tbody>
     <tr valign="top">
@@ -26,24 +26,15 @@ In general :- I am a **Technology Geek**  🇨🇾
         <img height="64px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png">
       </td>
       <td width="10%" align="center">
-        <span><strong>FLASK</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+        <span><strong>Keras</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
       </td>
       <td width="10%" align="center">
-        <span><strong>JAVA</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span><strong>Linux</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png">
       </td>
-      <td width="10%" align="center">
-        <span><strong>ANDROID</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-      </tbody>
-
+  </tbody>
 </table>
-
-<img src="https://img.shields.io/badge/Tensorflow-%23FF6FOO.svg?&style=flat-square&logo=Tensorflow&logoColor=white" />   
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=flat-square&logo=Keras&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=Linux&logoColor=white" />
 
 
 ## Technologies I Use
@@ -119,7 +110,6 @@ In general :- I am a **Technology Geek**  🇨🇾
  ## GitHub Status
 
 ![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=radical)
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
 
