@@ -110,7 +110,6 @@ In general :- I am a **Technology Geek**  🇨🇾
  ## GitHub Status
 
 ![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
 
 
