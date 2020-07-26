@@ -4,11 +4,11 @@
 <p>
   <img src="https://media1.giphy.com/media/SvWJ9qvayswvpssMPX/giphy.gif" width="200px"></p>
 
- # 𝗜'𝗺 Shubham 
+# 𝗜'𝗺 Shubham 
 <br>
 ## About Me
-**I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments.I am Music Addicted.**
- 
+I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments.I am Music Addicted.
+<br>
 - 🌱 I’m currently learning State of the Machine Learning,Deep Learning,Computer Vision
 - 🤝 I’m looking to collaborate on data science and Machine Learning,Deep Learning,Computer Vision projects
 In general :- I am a **Technology Geek**  🇨🇾
