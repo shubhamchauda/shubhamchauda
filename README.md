@@ -84,6 +84,7 @@ In general :- I am a **Technology Geek**  🇨🇾
       </tbody>
 </table>
 <br>
+<br>
 
 ## Goals 2020
 
