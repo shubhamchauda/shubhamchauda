@@ -96,7 +96,7 @@ In general :- I am a **Technology Geek**  🇨🇾
       </td>
       <td width="10%" align="center">
         <span><strong>Read A Lot</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/l6SQZJCWcXQd7mzoiF/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
         <span><strong>Build Networks</strong></span><br><br><br>
