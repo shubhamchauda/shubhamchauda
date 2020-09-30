@@ -92,7 +92,7 @@ In general :- I am a **Technology Geek**  🇨🇾
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="300px">
+        <img height="200px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
         <span><strong>Read A Lot</strong></span><br><br><br>
