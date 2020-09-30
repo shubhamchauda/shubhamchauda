@@ -38,6 +38,8 @@ In general :- I am a **Technology Geek**  🇨🇾
 
 
 ## Technologies I Use
+<br>
+<br>
 
 <table>
   <tbody>
@@ -61,6 +63,8 @@ In general :- I am a **Technology Geek**  🇨🇾
       </tbody>
 
 </table>
+<br>
+<br>
 
 <table>
   <tbody>
@@ -106,6 +110,7 @@ In general :- I am a **Technology Geek**  🇨🇾
       </tbody>
 </table>
 
+<br>
 <br>
  
  ## GitHub Status
