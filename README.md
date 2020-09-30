@@ -21,15 +21,15 @@ In general :- I am a **Technology Geek**  🇨🇾
 <table>
   <tbody>
     <tr valign="top">
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span><strong>Tensorflow</strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png">
       </td>
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span><strong>Keras</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
       </td>
-      <td width="10%" align="center">
+      <td width="15%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png">
       </td>
