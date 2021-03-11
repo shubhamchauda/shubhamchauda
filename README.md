@@ -115,9 +115,9 @@ In general :- I am a **Technology Geek**  🇨🇾
  
  ## GitHub Status
 
-![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=radical)
+![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=dark)
 <br>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamchauda.shubhamchauda)
 
