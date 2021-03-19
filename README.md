@@ -16,7 +16,7 @@ I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahi
 - 🤝 I’m looking to collaborate on data science and Machine Learning,Deep Learning,Computer Vision projects
 
 In general :- I am a **Technology Geek**  🇨🇾
-<p><a href="https://docs.google.com/document/d/1gFjLULdRWRtUoGt6MBzxpWTUJBw_kPlSRYKaWyuIP64/edit?usp=sharing"><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/download.png?raw=true"> : Download Resume</a></p>
+<p><a href="https://docs.google.com/document/d/1Z_g6Saj0GcNqOGXjoCaUAxqmMOWyML-HTUrxE3uP3QI/edit?usp=sharing"><img height="15px"  width="15px" src="https://github.com/gauravspatidar/gauravspatidar/blob/main/download.png?raw=true"> : Download Resume</a></p>
 
 ## Technologies currently using 
 <table>
