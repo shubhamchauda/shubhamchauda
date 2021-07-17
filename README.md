@@ -30,15 +30,15 @@ In general :- I am a **Technology Geek**
         <span><strong>Keras</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span><strong>Linux</strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png">
       </td>
-      <td width="40%" align="center">
+      <td width="25%" align="center">
         <span><strong>AWS EC2 </strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png">
       </td>
-      <td width="60%" align="center">
+      <td width="30%" align="center">
         <span><strong>AWS S3 </strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png">
       </td>
