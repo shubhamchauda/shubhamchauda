@@ -35,7 +35,7 @@ In general :- I am a **Technology Geek**  🇨🇾
         <img height="64px" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png">
       </td>
       <td width="10%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
+        <span><strong>AWS EC2 </strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png">
       </td>
       
