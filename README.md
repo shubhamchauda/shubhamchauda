@@ -15,7 +15,7 @@ I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahi
 - 🌱 I’m currently learning State of the Machine Learning,Deep Learning,Computer Vision
 - 🤝 I’m looking to collaborate on data science and Machine Learning,Deep Learning,Computer Vision projects
 
-In general :- I am a **Technology Geek**  🇨🇾
+In general :- I am a **Technology Geek** 
 <p><a href="https://drive.google.com/file/d/1qmqD4sT4_cO7Rtjf8Kk6CQAgZWmu2al8/view?usp=sharing"><img height="15px"  width="15px" src="https://github.com/shubhamchauda/shubhamchauda/blob/master/1486485559-118arrow-down-download-downloads-downloading-save_81191.png"> : Download Resume</a></p>
 
 ## Technologies currently using 
@@ -106,18 +106,7 @@ In general :- I am a **Technology Geek**  🇨🇾
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <span><strong>Mo
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          Coding</strong></span><br><br><br>
+        <span><strong>More Coding</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
