@@ -38,6 +38,10 @@ In general :- I am a **Technology Geek**  🇨🇾
         <span><strong>AWS EC2 </strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png">
       </td>
+      <td width="10%" align="center">
+        <span><strong>AWS S3 </strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png">
+      </td>
       
   </tbody>
 </table>
@@ -102,7 +106,18 @@ In general :- I am a **Technology Geek**  🇨🇾
   <tbody>
     <tr valign="top">
       <td width="10%" align="center">
-        <span><strong>More Coding</strong></span><br><br><br>
+        <span><strong>Mo
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          Coding</strong></span><br><br><br>
         <img height="200px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300px">
       </td>
       <td width="10%" align="center">
