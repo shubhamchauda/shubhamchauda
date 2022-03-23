@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a Junior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments.I am Music Addicted.
+I'm a senior Year student pursuing Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments.I am Music Addicted.
 <br>
 
 - 🌱 I’m currently learning State of the Machine Learning,Deep Learning,Computer Vision
