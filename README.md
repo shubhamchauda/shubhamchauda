@@ -131,7 +131,7 @@ In general :- I am a **Technology Geek**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shubhamchauda.shubhamchauda)
 
 <div id="user_count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=VinceVence&style=flat-square&color=blue" alt="user_views"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhamchauda&style=flat-square&color=blue" alt="user_views"/>
 </div>
 
 ## Wanna Chat? ☕
