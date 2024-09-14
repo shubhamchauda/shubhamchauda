@@ -7,137 +7,27 @@
 # 𝗜'𝗺 Shubham 
 <br>
 
-## About Me
-I am digital specialist engineer  in inosys, working as a Data Engineer. I have done my  Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that, I love to capture moments and I am Music Addicted.
-<br>
-
-In general :- I am a **Technology Geek** 
-<p><a href="https://drive.google.com/file/d/1ZX4MLHHB9Wa8iC9KwBun7SKNCpr2gULY/view?usp=sharing"><img height="15px"  width="15px" src="https://github.com/shubhamchauda/shubhamchauda/blob/master/1486485559-118arrow-down-download-downloads-downloading-save_81191.png"> : Download Resume</a></p>
-
-## Technologies currently using 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Tensorflow</strong></span><br><br><br>
-      </td>
-      <td width="15%" align="center">
-        <span><strong>Keras</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
-      </td>
-      <td width="20%" align="center">
-        <span><strong>Linux</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/L/Linux_Tux-logo-1439B51966-seeklogo.com.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>AWS EC2 </strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png">
-      </td>
-      <td width="30%" align="center">
-        <span><strong>AWS S3 </strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png">
-      </td>
-      <td width="35%" align="center">
-        <span><strong>AWS S3 </strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png">
-      </td>
-      
-  </tbody>
-</table>
+# 💫 About Me:
+I am digital specialist engineer in inosys, working as a Data Engineer. <br>I have done my Master of Computer Applications from Devi Ahilya Vishwavidyalaya, Indore. <br>I'm a passionate learner who's always willing to learn and apply technologies across various domains. <br>I love to explore new technologies and leverage them to solve real-life problems. 
 
 
-## Technologies I Use
-<br>
-<br>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shubhamchauda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-chauda-a2395a140) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@chaudashubham) 
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>PYTHON</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>FLASK</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>JAVA</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>ANDROID</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
-      </td>
-      </tbody>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shubhamchauda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamchauda&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</table>
-<br>
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shubhamchauda&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git.svg">
-       </td> 
-      <td width="10%" align="center">
-        <span><strong>APACHE TOMCAT</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>HTML5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>  
-      <td width="10%" align="center">
-        <span><strong>CSS3</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      </tbody>
-</table>
-<br>
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=shubhamchauda&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Goals 2023
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span><strong>More Coding</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300px">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Read A Lot</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/26tnlqgsV9gbihbO0/giphy.gif" width="300px">
-      </td>
-      <td width="10%" align="center">
-        <span><strong>Build Networks</strong></span><br><br><br>
-        <img height="200px" src="https://media.giphy.com/media/3ohhwHHRj0H00XPbdm/giphy.gif" width="300px">
-      </td>
-      </tbody>
-</table>
-
-<br>
-<br>
- 
- ## GitHub Status
-
-![Shubham Chauda's github stats](https://github-readme-stats.vercel.app/api?username=shubhamchauda&show_icons=true&theme=radical)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamchauda&show_icons=true&theme=radical)
-<br>
-
-<div id="user_count" align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamchauda&style=flat-square&color=blue" alt="user_views"/>
-</div>
-
-## Wanna Chat? ☕
-
-  <a href="https://www.linkedin.com/in/shubham-chauda-a2395a140/">
-    <img align="left" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   <a href="mailto:chaudashubham@gmail.com">
     <img align="left" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
