@@ -20,7 +20,6 @@ In general :- I am a **Technology Geek**
     <tr valign="top">
       <td width="10%" align="center">
         <span><strong>Tensorflow</strong></span><br><br><br>
-        <img height="64px" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png">
       </td>
       <td width="15%" align="center">
         <span><strong>Keras</strong></span><br><br><br>
@@ -35,6 +34,10 @@ In general :- I am a **Technology Geek**
         <img height="64px" src="https://seeklogo.com/images/A/aws-ec2-elastic-compute-cloud-logo-2F9E73DBA5-seeklogo.com.png">
       </td>
       <td width="30%" align="center">
+        <span><strong>AWS S3 </strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png">
+      </td>
+      <td width="35%" align="center">
         <span><strong>AWS S3 </strong></span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png">
       </td>
